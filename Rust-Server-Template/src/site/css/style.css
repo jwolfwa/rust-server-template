@@ -1,0 +1,12 @@
+body {
+	font-family:  Arial, Helvetica, sans-serif;
+	background-color: #12475f;
+	color: #fff;
+	line-height: 1.6;
+	text-align: center;
+}
+.fullscreen {
+	object-fit: contain;
+	width: 100%;
+	height: 100%;
+}
