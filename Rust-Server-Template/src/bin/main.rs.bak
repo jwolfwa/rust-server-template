@@ -34,7 +34,6 @@ fn handle_connection(mut stream: TcpStream) {
     }
 	
     let bufparse = ["src/site".to_owned(),bufparse.to_owned()].join("");
-	println!("{}", bufparse);
     if buffer.starts_with(b"GET"){
             if Path::new(&bufparse.to_string()).exists() {
                 status_line = "HTTP/1.1 200 OK".to_string();
