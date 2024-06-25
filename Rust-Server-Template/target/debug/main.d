@@ -1,1 +1,1 @@
-C:\Users\jwolf\projects\rust-server-template\Rust-Server-Template\target\debug\main.exe: C:\Users\jwolf\projects\rust-server-template\Rust-Server-Template\src\bin\main.rs C:\Users\jwolf\projects\rust-server-template\Rust-Server-Template\src\lib.rs
+C:\Users\MMB\Documents\Gerrymandering\ Game\gerrymandering\ game\Rust-Server-Template\target\debug\main.exe: C:\Users\MMB\Documents\Gerrymandering\ Game\gerrymandering\ game\Rust-Server-Template\src\bin\main.rs C:\Users\MMB\Documents\Gerrymandering\ Game\gerrymandering\ game\Rust-Server-Template\src\lib.rs

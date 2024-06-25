@@ -1,1 +1,1 @@
-C:\Users\jwolf\projects\rust-server-template\Rust-Server-Template\target\debug\libserver.rlib: C:\Users\jwolf\projects\rust-server-template\Rust-Server-Template\src\lib.rs
+C:\Users\MMB\Documents\Gerrymandering\ Game\gerrymandering\ game\Rust-Server-Template\target\debug\libserver.rlib: C:\Users\MMB\Documents\Gerrymandering\ Game\gerrymandering\ game\Rust-Server-Template\src\lib.rs
